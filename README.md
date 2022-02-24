@@ -23,7 +23,7 @@
   </a>
   &emsp;
    <a href="https://www.lua.org" target="_blank">
-    <img alt="Lua" src="https://img.shields.io/badge/Lua%20-%2314354C.svg?logo=lua&logoColor=white">
+    <img alt="Lua" src="https://img.shields.io/badge/Lua%20-%0434f4.svg?logo=lua&logoColor=white">
   </a>
 &emsp; 
 </p>
