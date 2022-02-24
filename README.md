@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm TehPig <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <hr/>
-<h4 align="center">I am currently working on 2 Verified Discord Bots. T_Moderator_Bot and T_Music_Bot. Both in more than 250+ servers serving users daily with new features implemented very frequently! Also made 2 basic APIs and own a Website.</h4>
+<h4 align="center">I am currently working on 2 Verified Discord Bots. T_Moderator_Bot and T_Music_Bot. Both in more than 250+ servers serving users daily with new features implemented very frequently! Also made 2 basic APIs and own a Website. Also sometimes coded as a Roblox Game Developer.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tehpigyt&label=TehPig's%20Profile%20Views%20&color=dc143c&style=plastic" alt="tehpigyt" /> </p>
 
@@ -20,6 +20,10 @@
   &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://www.lua.org" target="_blank">
+    <img alt="Lua" src="https://img.shields.io/badge/Lua%20-%2314354C.svg?logo=lua&logoColor=white">
   </a>
 &emsp; 
 </p>
@@ -69,7 +73,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/TehPigYT"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tehpigyt&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/TehPigYT"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tehpigyt&custom_title=TehPig's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
