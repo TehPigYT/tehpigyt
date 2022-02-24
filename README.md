@@ -82,7 +82,7 @@
   <a href="https://t-moderator-bot.us.to/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="https://github.com/TehPigYT"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://discord.com/users/@me/298432708269441034"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a>
-	<a href="https://twitch.tv/techpig_yt"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Twitch"/></a>
+	<a href="https://twitch.tv/techpig_yt"><img src="https://img.icons8.com/bubbles/50/000000/twitch.png" alt="Twitch"/></a>
 	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 	
 </p>
