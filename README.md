@@ -80,6 +80,8 @@
 
 <br/>
 
+<img src="https://lanyard-profile-readme.vercel.app/api/298432708269441034?bg=0d1117ff"></img>
+
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
