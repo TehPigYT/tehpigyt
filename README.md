@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm TehPig <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <hr/>
-<h4 align="center">I am currently working on 2 Verified Discord Bots. T_Moderator_Bot and T_Music_Bot. Both in more than 250+ servers serving users daily with new features implemented very frequently! Also made 2 basic APIs, own a Website and some other small projects and stuff. I also sometimes code as a Roblox Game Developer.</h4>
+<h4 align="center">I am currently working on 2 Verified Discord Bots. T_Moderator_Bot and T_Music_Bot. Both in more than 250+ servers serving users daily with new features implemented very frequently! Also made some APIs, created multiple basic websites and some other small projects. I also sometimes code as a Roblox Game Developer.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tehpigyt&label=TehPig's%20Profile%20Views%20&color=dc143c&style=plastic" alt="tehpigyt" /> </p>
 
@@ -80,10 +80,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/TehPigYT"><img align="center" src="https://stats-tehpigyt.vercel.app/api?username=tehpigyt&show_icons=true&locale=en&theme=algolia" alt="tehpigyt" height="192px"/></a>
+    <a href="https://github.com/TehPigYT"><img align="center" src="https://info-ten-sigma.vercel.app/api?username=tehpigyt&show_icons=true&locale=en&theme=algolia" alt="tehpigyt" height="192px"/></a>
 	</p>
 	<p  align="center">
-	  <img src="https://stats-tehpigyt.vercel.app/api/top-langs?username=tehpigyt&show_icons=true&locale=en&layout=compact&theme=algolia" alt="tehpigyt" height="192px"/>
+	  <img src="https://info-ten-sigma.vercel.app/api/top-langs?username=tehpigyt&show_icons=true&locale=en&layout=compact&theme=algolia" alt="tehpigyt" height="192px"/>
 	</p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
