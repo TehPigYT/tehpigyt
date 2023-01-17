@@ -4,6 +4,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tehpigyt&label=TehPig's%20Profile%20Views%20&color=dc143c&style=plastic" alt="tehpigyt" /> </p>
 
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -79,10 +80,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Candida18"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tehpigyt&show_icons=true&locale=en&theme=algolia" alt="tehpigyt" height="192px"/></a>
+    <a href="https://github.com/TehPigYT"><img align="center" src="https://stats-tehpigyt.vercel.app/api?username=tehpigyt&show_icons=true&locale=en&theme=algolia" alt="tehpigyt" height="192px"/></a>
 	</p>
 	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tehpigyt&show_icons=true&locale=en&layout=compact&theme=algolia" alt="tehpigyt" height="192px"/>
+	  <img src="https://stats-tehpigyt.vercel.app/api/top-langs?username=tehpigyt&show_icons=true&locale=en&layout=compact&theme=algolia" alt="tehpigyt" height="192px"/>
 	</p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -98,6 +99,8 @@
 </details>
 
 <br/>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/298432708269441034)](https://discord.com/users/298432708269441034)
 
 ## 🙋‍♀️ Let's Connect
 
