@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm TehPig <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <hr/>
-<h4 align="center">I am currently working on 2 Verified Discord Bots. T_Moderator_Bot and T_Music_Bot. Both in more than 250+ servers serving users daily with new features implemented very frequently! Also made 2 basic APIs and own a Website. Also sometimes coded as a Roblox Game Developer.</h4>
+<h4 align="center">I am currently working on 2 Verified Discord Bots. T_Moderator_Bot and T_Music_Bot. Both in more than 250+ servers serving users daily with new features implemented very frequently! Also made 2 basic APIs, own a Website and some other small projects and stuff. I also sometimes code as a Roblox Game Developer.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tehpigyt&label=TehPig's%20Profile%20Views%20&color=dc143c&style=plastic" alt="tehpigyt" /> </p>
 
@@ -38,9 +38,25 @@
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
+  </a>
+  &emsp;
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
 &emsp; 
 </p>
+
+### 👉 Databases
+
+<p align="left">
+  &emsp;
+  <a href="https://www.mysql.com/">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.sqlite.org/">
+    <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
+  </a>
 
 ### 👉 Software & Tools
 
@@ -48,8 +64,11 @@
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flate&logo=markdown&logoColor=white"></a>
   &emsp;
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
 <br/>
@@ -73,7 +92,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/TehPigYT"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tehpigyt&custom_title=TehPig's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/TehPigYT"><img alt="TehPig's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tehpigyt&custom_title=TehPig's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
