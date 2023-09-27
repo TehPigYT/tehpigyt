@@ -93,7 +93,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/TehPigYT"><img alt="TehPig's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tehpigyt&custom_title=TehPig's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/TehPigYT"><img alt="TehPig's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tehpigyt&custom_title=TehPig's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
