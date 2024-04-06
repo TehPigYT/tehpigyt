@@ -98,6 +98,14 @@
 
 </details>
 
+<details>
+  <summary><b>⏰ Wakatime Statistics</b></summary>
+  <br/>
+   <a href="https://github.com/TehPigYT"><img alt="TehPig's Wakatime Stats" src="https://info-ten-sigma.vercel.app/api/wakatime?username=TehPigYT" /></a>
+  <br/>
+
+</details>
+
 <br/>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/298432708269441034)](https://discord.com/users/298432708269441034)
