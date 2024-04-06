@@ -101,7 +101,7 @@
 <details>
   <summary><b>⏰ Wakatime Statistics</b></summary>
   <br/>
-   <a href="https://github.com/TehPigYT"><img alt="TehPig's Wakatime Stats" src="https://info-ten-sigma.vercel.app/api/wakatime?username=TehPigYT" /></a>
+   <a href="https://github.com/TehPigYT"><img alt="TehPig's Wakatime Stats" src="https://info-ten-sigma.vercel.app/api/wakatime?username=TehPig" /></a>
   <br/>
 
 </details>
