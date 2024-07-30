@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm TehPig <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <hr/>
-<h4 align="center">I am currently working on APIs and mostly JavaScript projects. I own 2 Verified Discord Bots, **T_Moderator_Bot** (300 servers) and **T_Music_Bot** (1.9k servers), serving users daily with new features implemented frequently! Also made some APIs, worked with websockets, created multiple basic websites and some other small projects. I also sometimes code as a Roblox Game Developer.</h4>
+<h4 align="center">I am currently working on APIs and mostly JavaScript projects. I own 2 Verified Discord Bots, **T_Moderator_Bot** (180+ servers) and **T_Music_Bot** (2k+ servers), serving users daily with new features implemented frequently! Also made some APIs, worked with websockets, created multiple basic websites and some other small projects. I also sometimes code as a Roblox Game Developer.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tehpigyt&label=TehPig's%20Profile%20Views%20&color=dc143c&style=plastic" alt="tehpigyt" /> </p>
 
