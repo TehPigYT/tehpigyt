@@ -89,7 +89,7 @@
   &emsp;
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"></a>
 </p>
 
 ### 👉 Software & Tools
@@ -107,6 +107,8 @@
     <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
   &emsp;
     <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff"></a>
   &emsp;
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flate&logo=markdown&logoColor=white"></a>
 </p>
