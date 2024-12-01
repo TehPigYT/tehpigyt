@@ -21,6 +21,8 @@
   &emsp;
    <a href="https://devdocs.io/c/" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"></a>
   &emsp;
+   <a href="https://cplusplus.com/doc/tutorial/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+  &emsp;
    <a href="https://www.lua.org" target="_blank"><img alt="Lua" src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white"></a>
   &emsp;
    <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
