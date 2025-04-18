@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm TehPig <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <hr/>
-<h4 align="center">I am currently working on APIs and mostly JavaScript projects. I own 2 Verified Discord Bots, [T_Moderator_Bot] (180+ servers) and [T_Music_Bot] (2.6k+ servers), serving users daily with new features implemented frequently! Also made some APIs, worked with websockets, created multiple basic websites and some other small projects. I also sometimes code as a Roblox Game Developer.</h4>
+<h4 align="center">I am currently working on APIs and mostly JavaScript projects. I own 2 Verified Discord Bots, [T_Moderator_Bot] (180+ servers) and [T_Music_Bot] (2.5k+ servers), serving users daily with new features implemented every once in a while! Also made some APIs, worked with websockets, created multiple basic websites and other small projects. I am always looking for ways to optimize my programs! In the past I used to code as a Roblox Game Developer and started my Coding journey in 2018 with JavaScript (which I still use daily)!</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tehpigyt&label=TehPig's%20Profile%20Views%20&color=dc143c&style=plastic" alt="tehpigyt" /> </p>
 
@@ -35,8 +35,6 @@
 <p align="left">
   &emsp; 
     <a href="https://nodejs.org" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-002E3B?logo=nuxtdotjs&logoColor=#00DC82"></a>
   &emsp; 
     <a href="https://bun.com" target="_blank"><img alt="Bun" src="https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff"></a>
 </p>
@@ -88,6 +86,8 @@
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
   &emsp;
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"></a>
 </p>
@@ -154,7 +154,6 @@
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
-	<a href="https://github.com/TehPigYT"><img src="https://img.icons8.com/bubbles/50/github.png" alt="GitHub"/></a>
 	<a href="https://discord.com/users/298432708269441034"><img height=50 width=50 src="https://img.icons8.com/clouds/100/discord.png" alt="Discord"/></a>
 	<a href="https://twitch.tv/techpig_yt"><img src="https://img.icons8.com/bubbles/50/twitch.png" alt="Twitch"/></a>
 	<a href="https://www.youtube.com/@TechPigYT"><img height=50 width=50 src="https://img.icons8.com/clouds/100/youtube-play.png" alt="Youtube"/></a>
